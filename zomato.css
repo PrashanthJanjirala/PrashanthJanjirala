@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Open+Sans:wght@300&family=Sawarabi+Mincho&family=Ubuntu:wght@300&display=swap');
+#outer-div1{
+    background-image: url(./zomhead.avif);
+    height: 400px;
+}
+#d1{
+    padding-right: 200px;
+    display: flex;
+    justify-content: right; 
+}
+.a1{
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+#a2m{
+    margin-right: 400px; 
+    font-size: 15px;  
+}
+#img1{
+   display: flex;
+   margin: auto;
+   margin-top: 40px;   
+}
+#p1{
+   color: white;
+   font-size: 40px;
+   font-family: 'Ubuntu', sans-serif;
+   text-align: center;
+}
+#d3{
+    font-size: 70px;
+    display: flex;
+    height: 50px;
+    width: fit-content;
+    justify-content: center;
+    margin-left: 355px;
+}
+#d3 #city,input{
+    border: 0px solid;
+    border-radius: 10px;
+    margin: -2px;
+}
+#city{
+    width: 300px;
+    text-align: center;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 50px;
+}
+#d4{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+#d4 img:hover{
+    /* box-shadow: 8px 8px 15px gray; */
+    border:0px solid;
+    border-radius: 15%;
+    height: 265px;
+    width: 360px;
+}
+#d4 img{
+    border:0px solid;
+    border-radius: 15%;
+    height: 250px;
+    width: 350px;
+    padding: 0px 25px; 
+    display: flex;
+    justify-content:baseline;     
+}
+
+.figc{
+    color: black;
+    background-color: white;
+    font-size: 20px;  
+    position: absolute;
+    bottom: 5px;
+    border: 0px solid;
+    border-radius: 10%;
+    display: flex;
+    padding-left: 35px; 
+    font-family: 'Ubuntu', sans-serif;
+    padding: 30px;
+} 
+#hc{
+    margin-top: 20px;
+    font-size: 40px;
+    margin-left: 160px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.d6{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: first baseline;
+}
+#p3{
+    font-size: 20px;
+    margin-left:10px;
+    margin-top: -70px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#a3{
+    font-size: 20px;
+    color: red;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+#d7{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 105px;
+    margin-right: 100px;
+   
+}
+.img3{
+    border:0px solid;
+    border-radius: 3%;
+}
+#hyd{
+    font-size: 35px;
+    font-weight: lighter;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.d8{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.d8 a:hover{
+    box-shadow: 8px 8px 10px gray;
+}
+.location{
+    font-size: 25px;
+    text-decoration: none;
+    border: opx solid;
+    height: 80px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 5px rgb(242, 240, 240);
+    margin: 5px;
+    padding-left: 20px;
+    border: 1px solid black;
+    display: flex;
+    border-radius: 5px;
+    
+    align-items: center;
+}
+#nav{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-color: antiquewhite;
+}
+#d9{
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: -80px;
+    margin-left: 30px;
+}
+#get-app{
+    font-size: 40px;
+}
+.radio:checked{
+  accent-color: rgb(255, 0, 89);
+}
+.radio{
+    margin: 10px 5px;
+    height: 15px;
+    width: 20px;
+}
+#email{
+    height: 40px;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#share-app{
+   text-decoration: none; 
+   border: 0px solid;
+   color: whitesmoke;
+   font-size: 20px;
+   border: 5px;
+   padding: 12px;
+   background-color: rgb(248, 57, 124);
+   border-radius: 8px;
+   margin-left: 5px;
+}
+#share-app:hover{
+    background-color: rgb(184, 12, 104);
+}
+#d10{
+    margin-left: 200px;
+    margin-top: 100px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: stretch;
+    font-family: 'Ubuntu', sans-serif;
+}
+#coun{
+    margin-left: 750px;
+}
+#d11{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#d11 a{
+    display: block;
+    text-decoration: none;   
+}
+#d11 a:hover{
+    color: rgb(66, 20, 218);
+}
+#d11 .inner-div{
+    padding: 50px;
+    font-size: 18px;
+}
+#logo a{
+    display: inline;
+} 
+#d11 div{
+    margin-top: 20px;
+}
+hr{
+    margin:30px 180px 0px;
+}
+address{
+    margin: 10px 180px 20px;
+    font-size: 16px;
+}
+footer{
+    background-color: rgb(249, 244, 237);
+    margin-top: 20px;
+}

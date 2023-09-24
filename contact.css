@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Sawarabi+Mincho&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Open+Sans:wght@300&family=Sawarabi+Mincho&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Open+Sans:wght@300&family=Sawarabi+Mincho&family=Ubuntu:wght@300&display=swap');
+*{
+    background-color:rgb(42, 139, 103);
+}
+#div1{
+    background-color: rgb(215, 219, 224);
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    padding: 10px;
+}
+#a1{
+    margin-left: 280px;
+    color: rgb(59, 90, 72);
+    font-weight: bold;
+    background-color: rgb(215, 219, 224);
+    text-decoration: none;
+    font-size: large;
+}
+#a2{
+    margin-left: 600px;
+    color: rgb(58, 55, 55);
+    background-color: rgb(215, 219, 224);
+    text-decoration: none;
+}
+#a3{
+    margin-right: 10px;
+    color: rgb(53, 52, 52);
+    background-color: rgb(215, 219, 224);
+    text-decoration: none;
+}
+#a1:hover{
+    color: rgb(60, 59, 59);
+}
+#a2:hover{
+    color: gray;
+}
+#a3:hover{
+    color: gray;
+}
+#div2{
+    margin: 60px;
+    text-align: center;
+}
+#a4{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(119, 236, 119);
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+span{
+    font-size: 27px;
+    font-style:  'Open Sans', sans-serif;
+    color: rgb(199, 216, 216);
+}
+.a5,#a6{
+    padding: 0px 50px;
+    color: azure;
+    text-decoration: none;
+    font-size: 18px;
+    font-style:  'Open Sans', sans-serif;;
+}
+.a5:hover{
+    color: rgb(188, 126, 247);
+}
+#a6{
+    color:rgb(119, 236, 119);
+}
+#div3{
+    height: 1100px;
+    width: 1000px;
+    background-color: rgb(253, 253, 253);
+    text-align: center;
+    margin-left: 250px;
+}
+#h2{
+    background-color:  rgb(253, 253, 253);
+    color: rgb(129, 190, 140);
+    display: flex;
+    margin-left: 70px;
+    padding-top: 50px;
+    font-size: 40px;
+}
+h2{
+    background-color:  rgb(231, 215, 215);
+    display: flex;
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+#div4{
+    height: 250px;
+    width: 500px;
+    background-color: rgb(253, 253, 253);
+    margin-left: 250px;
+    justify-content: center;
+        
+}
+#div4 form,h2{
+    background-color:rgb(253, 253, 253);
+}
+.l1{
+    display: flex;
+    background-color:rgb(253, 253, 253);
+}
+input{
+    display: flex;
+    width: 90%;
+    padding: 12px;
+    background-color:rgb(234, 230, 230);
+
+}
+textarea{
+    background-color:rgb(253, 253, 253);
+    width: 100%;
+}
+#s1{
+    display: flex;
+    width: auto;
+    background-color:rgb(50, 191, 50);
+    padding: 3px;
+    color: aliceblue;
+    border-radius: 5px;
+    display: absulute;
+    margin-left: 450px;
+}
+
+#img1,footer{
+    margin-left: 260px;
+}
+#span1{
+    color: rgb(119, 236, 119);
+}
+.fb{
+ border-radius: 4px;
+} 
+

@@ -1,0 +1,152 @@
+header a{
+    text-decoration: none;
+    
+} 
+#outer-div1{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(66, 27, 164);
+}
+#mega{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 30px;
+    right: 15px;
+    background-color: whitesmoke;
+}
+ #div1 a{
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+} 
+#div2{
+    display: flex;
+    justify-content: right;
+}
+#div2 a{
+    padding-right:30px;
+}
+#div3{
+    display: flex;
+    justify-content: left;
+    margin-left: 50PX;
+}
+#div3 a{
+    padding: 15px;
+}
+#div5{
+    position: absolute;
+    right: 50px;
+    margin-top: 30px;
+}
+#div7{
+    margin-top: 30px;
+}
+.h2{
+    font-size: 35px;
+    margin-left: 35px;
+}
+#div8{
+    margin-left:25px ;
+} 
+#div8 img{
+    padding-left: 20px;
+    
+}
+#div10{
+    position: absolute;
+    top: 1800px;
+    right: 50px;
+}
+#div10 img{
+    margin-left: 25px;
+}
+#div11{
+    display:flex;
+}
+#div11 a{
+     text-decoration: none;  
+     text-align: center;
+}
+#div11 div{
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin-left: 30px;
+    border-radius: 2%; 
+    margin-bottom: 70px; 
+}
+.div12{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+.div12 figcaption{
+     margin: 15px; 
+}
+.div12 .a1{
+    margin-left: 15px;
+    text-decoration: none;
+    color: blue;
+}
+.div12 .a1:hover{
+   text-decoration: underline;
+   color: rgb(67, 65, 65);
+}
+.s2{
+    color: red;
+}
+.fig{
+    font-size: 10px;
+}
+h3{
+    font-size: 20px;
+}
+#div13{
+    height: 70px;
+    width: 100%;
+    background-color:  rgb(66, 27, 164);
+    display: flex;
+    justify-content: space-evenly;
+}
+#div13 p{
+    color: whitesmoke;
+    padding-top: 10px;
+}
+#div13 a{
+    color: whitesmoke;
+    padding-top:20px ;
+}
+#div14{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 0px;
+    margin-right: 180px;
+    padding-bottom: 30px;
+    background-color: rgb(227, 223, 223);
+}
+#div14 a{
+    display: block;
+    text-decoration: none;
+    color: rgb(111, 110, 110);
+    padding: 1px;
+}
+#div14 a:hover{
+    text-decoration: underline;
+}
+#div15{
+    display: flex;
+}
+#aditya{
+    display: flex;
+    justify-content: center;
+}
+address{
+    font-size: 12px;
+    text-align: center;
+    padding-bottom: 50px;
+}
